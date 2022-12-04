@@ -126,7 +126,7 @@ pub fn instantiate_new_counter(
 
 
 pub fn try_increment(deps: DepsMut, contract: String) -> Result<Response, ContractError> {
-    unimplemented!()
+    
 }
 
 pub fn try_reset(
