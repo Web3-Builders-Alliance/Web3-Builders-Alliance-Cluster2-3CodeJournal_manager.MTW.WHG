@@ -1,0 +1,12 @@
+/home/wildhash/WBA/week3/Tuesday/manager-example-incomplete/target/debug/deps/spki-426e1b26da2b6016.rmeta: /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/lib.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/algorithm.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/error.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/spki.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/traits.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/../README.md
+
+/home/wildhash/WBA/week3/Tuesday/manager-example-incomplete/target/debug/deps/libspki-426e1b26da2b6016.rlib: /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/lib.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/algorithm.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/error.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/spki.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/traits.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/../README.md
+
+/home/wildhash/WBA/week3/Tuesday/manager-example-incomplete/target/debug/deps/spki-426e1b26da2b6016.d: /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/lib.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/algorithm.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/error.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/spki.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/traits.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/../README.md
+
+/home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/lib.rs:
+/home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/algorithm.rs:
+/home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/error.rs:
+/home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/spki.rs:
+/home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/traits.rs:
+/home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/../README.md:

@@ -1,0 +1,12 @@
+/home/wildhash/WBA/week3/Tuesday/manager-example-incomplete/target/debug/deps/pkcs8-9cfab2bb183b2b36.rmeta: /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/lib.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/error.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/private_key_info.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/traits.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/version.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/../README.md
+
+/home/wildhash/WBA/week3/Tuesday/manager-example-incomplete/target/debug/deps/libpkcs8-9cfab2bb183b2b36.rlib: /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/lib.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/error.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/private_key_info.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/traits.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/version.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/../README.md
+
+/home/wildhash/WBA/week3/Tuesday/manager-example-incomplete/target/debug/deps/pkcs8-9cfab2bb183b2b36.d: /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/lib.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/error.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/private_key_info.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/traits.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/version.rs /home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/../README.md
+
+/home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/lib.rs:
+/home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/error.rs:
+/home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/private_key_info.rs:
+/home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/traits.rs:
+/home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/version.rs:
+/home/wildhash/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/../README.md:
