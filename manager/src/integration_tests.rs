@@ -180,6 +180,18 @@ mod tests {
 
     #[test]
     fn create_two_counters_and_increment_each() {
-        unimplemented!()
+        let (mut app, manager_id, counter_id) = store_code();
+        let manager_contract = manager_instantiate(&mut app, manager_id);
+
+        instantiate_new(&mut app, &manager_contract, counter_id);
+        increment(&mut app, &manager_contract, "contract1".to_string());
+        instantiate_new(&mut app, &manager_contract, counter_id);
+        increment(&mut app, &manager_contract, "contract2".to_string());
+
+        let res = get_contracts(&app, &manager_contract);
+
+        assert_eq!(res.contracts.len(), 2);
+        assert_eq!(res.contracts[0].1.address, "contract1");
+        assert_eq!(res.contracts[1].1.address, "contract2");
     }
 }
