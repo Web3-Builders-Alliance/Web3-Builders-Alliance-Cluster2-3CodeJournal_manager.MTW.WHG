@@ -152,7 +152,16 @@ mod tests {
 
     #[test]
     fn create_counter_and_increment_twice() {
-        unimplemented!()
+        let (mut app, manager_id, counter_id) = store_code();
+        let manager_contract = manager_instantiate(&mut app, manager_id);
+
+        instantiate_new(&mut app, &manager_contract, counter_id);
+        increment(&mut app, &manager_contract, "contract1".to_string());
+        increment(&mut app, &manager_contract, "contract1".to_string());
+
+        let res = get_contracts(&app, &manager_contract);
+        let res = get_count(&app, res.contracts[0].1.address.as_str());
+        assert_eq!(res.count, 2);
     }
 
     #[test]
